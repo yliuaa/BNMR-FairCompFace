@@ -1,5 +1,7 @@
 # Component-Based Fairness in Face Attribute Classification with Bayesian Network-informed Meta Learning 
 Code implementation for FAccT 2025 paper "Component-Based Fairness in Face Attribute Classification with Bayesian Network-informed Meta Learning"
+![Overall pipeline of BNMR](./save/pipeline.png)
+
 
 # Requirement
 To prepare the environment, use `./environment.txt` file and conda.
