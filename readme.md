@@ -20,3 +20,19 @@ During the implementation we base our code mostly on Transformers from HuggingFa
 # Cite
 Please consider citing the following papers if you use our methods/code in your research:
 
+@inproceedings{10.1145/3715275.3732066,
+author = {Liu, Yifan and Yao, Ruichen and Liu, Yaokun and Zong, Ruohan and Li, Zelin and Zhang, Yang and Wang, Dong},
+title = {Component-Based Fairness in Face Attribute Classification with Bayesian Network-informed Meta Learning},
+year = {2025},
+isbn = {9798400714825},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3715275.3732066},
+doi = {10.1145/3715275.3732066},
+pages = {1015–1027},
+numpages = {13},
+keywords = {Fairness, Face Attribute Classification, Bayesian Network, Meta Learning, Sample Reweighting},
+location = {
+},
+series = {FAccT '25}
+}
